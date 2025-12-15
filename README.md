@@ -15,3 +15,6 @@ Odoo Forum Entries (Self and Others')
 
 - Emailing
   - [Emails to Microsoft Outlook/Hotmail are rejected](https://www.odoo.com/es/forum/ayuda-1/emails-to-microsoft-outlookhotmail-are-rejected-289575)
+
+- Website
+  - [Remove "Powered by Odoo" Footer](https://www.odoo.com/es/forum/ayuda-1/remove-powered-by-odoo-footer-v18-272960)
