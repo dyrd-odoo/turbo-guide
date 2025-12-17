@@ -1,6 +1,6 @@
-# turbo-guide
-Odoo Forum Entries (Self and Others')
+# DYRD's Odoo Turbo Guide
 
+Welcome. Please find below some Odoo Forum Entries I find useful.
 
 ## Forum entries I've created
 
