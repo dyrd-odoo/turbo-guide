@@ -5,7 +5,8 @@ Welcome. Please find below some Odoo Forum Entries I find useful.
 ## Forum entries I've created
 
 - AI
-  - [How to solve the Odoo SH - AI Agent Error message: "Please try again later"](https://www.odoo.com/forum/help-1/odoo-sh-ai-agent-error-message-please-try-again-later-odoo-190-time-of-writing-20251203-292944)
+  - [Odoo Enterprise - AI Agent Error message: "Please try again later" - Odoo 19.0 - Date of Writing (Y/M/D): 2025+12+19](https://www.odoo.com/es_ES/forum/ayuda-1/odoo-enterprise-ai-agent-error-message-please-try-again-later-odoo-190-time-of-writing-20251203-292944)
+  - [How to Solve the Odoo AI Access Error: “AI not reachable, AI Agent not found”. Date of Writing (Y/M/D): 2025+12+19](https://www.odoo.com/es_ES/forum/ayuda-1/how-to-solve-the-odoo-ai-access-error-ai-not-reachable-ai-agent-not-found-date-of-writing-ymd-20251219-294317)
 
 ## Forums I find useful
 
