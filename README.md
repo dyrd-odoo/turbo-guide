@@ -15,6 +15,7 @@ Welcome. Please find below some Odoo Forum Entries I find useful.
 - MX Localization
   - [Error #CRP20226 El campo CtaBeneficiario no cumple con el patrón requerido.](https://www.odoo.com/es/forum/ayuda-1/l10n-mx-error-crp20225-por-que-no-puedo-timbrar-un-pago-266064)
   - [¿Como crear Notas Creditoy Notas Débito - Conexion Directa DIAN?](https://www.odoo.com/es/forum/ayuda-1/l10n-co-como-crear-notas-creditoy-notas-debito-conexion-directa-dian-266626)
+  - [¿Puedo realizar Facturas Electrónicas utilizando Sucursales en Odoo?](https://www.odoo.com/es_ES/forum/ayuda-1/l10n-mx-puedo-realizar-facturas-electronicas-utilizando-sucursales-en-odoo-264539)
 
 - Emailing
   - [Emails to Microsoft Outlook/Hotmail are rejected](https://www.odoo.com/es/forum/ayuda-1/emails-to-microsoft-outlookhotmail-are-rejected-289575)
